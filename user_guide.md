@@ -213,7 +213,7 @@ Bot Response: If complete, will show "Cannot reset batch #1 - transfers have alr
 
 ### 💰 Financial Considerations
 - **Minimum PILL**: You need at least 500,000 PILL tokens to start mixing
-- **SOL for fees**: Budget approximately 0.27 SOL per wallet for transaction fees
+- **SOL requirements**: Budget approximately 0.09 SOL per wallet + small transaction fees (most gets transferred to your final wallets)
 - **Complete transfer**: All funds will be moved to external wallets - nothing stays in sub-wallets
 
 ### 🚫 Common Mistakes to Avoid
@@ -275,7 +275,7 @@ Response: "You need to register 2 more addresses before sending" (if incomplete)
 
 ### "Insufficient SOL for fees"
 - Add more SOL to your main wallet
-- You need approximately 0.27 SOL per wallet for fees
+- You need approximately 0.09 SOL per wallet + small transaction fees (most gets transferred forward)
 
 ## 📞 Support
 
